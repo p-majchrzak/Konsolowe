@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.exe
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.deps.json
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.runtimeconfig.json
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.dll
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.pdb
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.dll
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\refint\Sortowanie.dll
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.pdb
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Sortowanie\Sortowanie\obj\Debug\net8.0\ref\Sortowanie.dll

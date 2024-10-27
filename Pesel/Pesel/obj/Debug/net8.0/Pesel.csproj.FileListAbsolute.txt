@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Pesel\Pesel\bin\Debug\net8.0\Pesel.exe
+C:\Users\piotr\Desktop\Pesel\Pesel\bin\Debug\net8.0\Pesel.deps.json
+C:\Users\piotr\Desktop\Pesel\Pesel\bin\Debug\net8.0\Pesel.runtimeconfig.json
+C:\Users\piotr\Desktop\Pesel\Pesel\bin\Debug\net8.0\Pesel.dll
+C:\Users\piotr\Desktop\Pesel\Pesel\bin\Debug\net8.0\Pesel.pdb
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.dll
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\refint\Pesel.dll
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.pdb
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\Pesel.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Pesel\Pesel\obj\Debug\net8.0\ref\Pesel.dll

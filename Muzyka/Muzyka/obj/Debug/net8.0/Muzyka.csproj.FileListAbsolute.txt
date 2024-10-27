@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\Muzyka\Muzyka\bin\Debug\net8.0\Muzyka.exe
+C:\Users\piotr\Desktop\Muzyka\Muzyka\bin\Debug\net8.0\Muzyka.deps.json
+C:\Users\piotr\Desktop\Muzyka\Muzyka\bin\Debug\net8.0\Muzyka.runtimeconfig.json
+C:\Users\piotr\Desktop\Muzyka\Muzyka\bin\Debug\net8.0\Muzyka.dll
+C:\Users\piotr\Desktop\Muzyka\Muzyka\bin\Debug\net8.0\Muzyka.pdb
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.dll
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\refint\Muzyka.dll
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.pdb
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\Muzyka.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Muzyka\Muzyka\obj\Debug\net8.0\ref\Muzyka.dll

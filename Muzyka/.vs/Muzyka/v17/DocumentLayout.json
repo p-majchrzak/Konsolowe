@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piotr\\Desktop\\Muzyka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39176BC-0357-47DC-8052-C773BF6CC646}|Muzyka.Test\\Muzyka.Test.csproj|c:\\users\\piotr\\desktop\\muzyka\\muzyka.test\\pliktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39176BC-0357-47DC-8052-C773BF6CC646}|Muzyka.Test\\Muzyka.Test.csproj|solutionrelative:muzyka.test\\pliktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580DBD4A-E5A0-4C61-B279-DE8B7F4CE0B7}|Muzyka\\Muzyka.csproj|c:\\users\\piotr\\desktop\\muzyka\\muzyka\\piosenka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580DBD4A-E5A0-4C61-B279-DE8B7F4CE0B7}|Muzyka\\Muzyka.csproj|solutionrelative:muzyka\\piosenka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580DBD4A-E5A0-4C61-B279-DE8B7F4CE0B7}|Muzyka\\Muzyka.csproj|c:\\users\\piotr\\desktop\\muzyka\\muzyka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580DBD4A-E5A0-4C61-B279-DE8B7F4CE0B7}|Muzyka\\Muzyka.csproj|solutionrelative:muzyka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580DBD4A-E5A0-4C61-B279-DE8B7F4CE0B7}|Muzyka\\Muzyka.csproj|c:\\users\\piotr\\desktop\\muzyka\\muzyka\\plik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580DBD4A-E5A0-4C61-B279-DE8B7F4CE0B7}|Muzyka\\Muzyka.csproj|solutionrelative:muzyka\\plik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlikTest.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka.Test\\PlikTest.cs",
+              "RelativeDocumentMoniker": "Muzyka.Test\\PlikTest.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka.Test\\PlikTest.cs",
+              "RelativeToolTip": "Muzyka.Test\\PlikTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:05:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plik.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka\\Plik.cs",
+              "RelativeDocumentMoniker": "Muzyka\\Plik.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka\\Plik.cs",
+              "RelativeToolTip": "Muzyka\\Plik.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:55:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piosenka.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka\\Piosenka.cs",
+              "RelativeDocumentMoniker": "Muzyka\\Piosenka.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka\\Piosenka.cs",
+              "RelativeToolTip": "Muzyka\\Piosenka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:51:45.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka\\Program.cs",
+              "RelativeDocumentMoniker": "Muzyka\\Program.cs",
+              "ToolTip": "C:\\Users\\piotr\\Desktop\\Muzyka\\Muzyka\\Program.cs",
+              "RelativeToolTip": "Muzyka\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:47:07.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
